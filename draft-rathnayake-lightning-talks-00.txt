@@ -1,0 +1,112 @@
+
+
+
+
+Network Working Group                          K. Nanayakkara Rathnayake
+Internet-Draft                                          22 November 2024
+Intended status: Informational                                          
+Expires: 26 May 2025
+
+
+                      Standard for Lightning Talks
+                    draft-rathnayake-lightning-talks
+
+Abstract
+
+   This document outlines a standardized structure for delivering
+   lightning talks, aimed at ensuring concise, engaging, and effective
+   presentations.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 26 May 2025.
+
+Copyright Notice
+
+   Copyright (c) 2024 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+
+
+
+
+
+Nanayakkara Rathnayake     Expires 26 May 2025                  [Page 1]
+
+Internet-Draft               lightning-talks               November 2024
+
+
+Table of Contents
+
+   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
+   2.  Structure . . . . . . . . . . . . . . . . . . . . . . . . . .   2
+   3.  Considerations  . . . . . . . . . . . . . . . . . . . . . . .   2
+   4.  Informative References  . . . . . . . . . . . . . . . . . . .   2
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   2
+
+1.  Introduction
+
+   Lightning talks are brief presentations, typically lasting 5 minutes,
+   that deliver focused insights on a specific topic [WIKI].  This RFC
+   proposes a structure for such talks to optimize clarity and audience
+   engagement.
+
+2.  Structure
+
+   There is no structure.
+
+3.  Considerations
+
+   *  Ensure talk fits within the 5 minutes.
+
+   *  Avoid sales pitchs.
+
+   *  Make sure your talks fits the code of conduct.
+
+4.  Informative References
+
+   [WIKI]     "Lighting Talk",
+              <https://en.wikipedia.org/wiki/Lightning_talk>.
+
+Author's Address
+
+   Kesara Nanayakkara Rathnayake
+   New Zealand
+   Email: kesara@fq.nz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nanayakkara Rathnayake     Expires 26 May 2025                  [Page 2]
