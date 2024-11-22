@@ -2,6 +2,7 @@
 Lighting Talks Standard
 
 * [Markdown](draft-rathnayake-lightning-talks-00.md)
+* [XML](draft-rathnayake-lightning-talks-00.xml)
 * [HTML](draft-rathnayake-lightning-talks-00.html)
 * [Text](draft-rathnayake-lightning-talks-00.txt)
 * [PDF](draft-rathnayake-lightning-talks-00.pdf)
