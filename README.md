@@ -1,5 +1,5 @@
-# lighting-talks
-Lighting Talks Standard
+# lightning-talks
+Lightning Talks Standard
 
 * [Markdown](draft-rathnayake-lightning-talks-00.md)
 * [XML](draft-rathnayake-lightning-talks-00.xml)
