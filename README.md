@@ -7,4 +7,4 @@ Lighting Talks Standard
 * [Text](draft-rathnayake-lightning-talks-00.txt)
 * [PDF](draft-rathnayake-lightning-talks-00.pdf)
 
-Created using [Author Tools](https://author-tools.ietf.org/).
+Created using [Author Tools](https://author-tools.ietf.org/) with [kramdown-rfc](https://github.com/cabo/kramdown-rfc).
