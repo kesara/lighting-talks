@@ -1,6 +1,8 @@
 # lightning-talks
 Lightning Talks Standard
 
+This was created as a part of a [lightning talk](https://fq.nz/blog/2024/11/30/pycon-au-2024-lightning-talk).
+
 * [Markdown](draft-rathnayake-lightning-talks-00.md)
 * [XML](draft-rathnayake-lightning-talks-00.xml)
 * [HTML](draft-rathnayake-lightning-talks-00.html)
